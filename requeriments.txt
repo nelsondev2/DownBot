@@ -1,0 +1,5 @@
+requests
+python-magic
+file-magic
+py7zr
+deltabot_cli
